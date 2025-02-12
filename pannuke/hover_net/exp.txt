@@ -1,0 +1,1 @@
+python /rds/user/mf774/hpc-work/pannuke/hover_net/run_train.py
