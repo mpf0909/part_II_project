@@ -9,6 +9,7 @@
 *.tsv
 *.mat
 *.json
+*.npy
 
 # ignore temporary files
 *.tmp
