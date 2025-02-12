@@ -1,0 +1,15 @@
+# ignore dataset and model weight files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.gif
+*.ipynb
+*.sh
+*.tsv
+*.mat
+*.json
+
+# ignore temporary files
+*.tmp
+
