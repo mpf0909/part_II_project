@@ -1,2 +1,0 @@
-python /rds/user/mf774/hpc-work/hovernet/hover_net/run_train.py
-python /rds/user/mf774/hpc-work/hovernet/hover_net/run_infer.py
