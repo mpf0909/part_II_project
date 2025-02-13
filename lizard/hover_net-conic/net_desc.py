@@ -226,4 +226,4 @@ class HoVerNetConic(ModelABC):
 
     @staticmethod
     def infer_batch(model, batch_data, on_gpu):
-        return TIAHoVerNet.infer_batch(model, batch_data, on_gpu)
+        return TIAHoVerNet.infer_batch(model, batch_data, device=on_gpu)
