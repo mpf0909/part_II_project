@@ -217,7 +217,8 @@ class HoVerNetConic(ModelABC):
 
     @staticmethod
     def _get_instance_info(pred_inst, pred_type=None):
-        return TIAHoVerNet._get_instance_info(pred_inst, pred_type)
+        # return TIAHoVerNet._get_instance_info(pred_inst, pred_type)
+        return TIAHoVerNet.get_instance_info(pred_inst, pred_type)
 
     @staticmethod
     # skipcq: PYL-W0221
